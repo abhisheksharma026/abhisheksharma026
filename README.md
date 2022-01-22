@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AutoML
+- 🔭 I’m currently working on AutoML/AutoTS
 - 🌱 I’m currently learning Math behind Machine Learning Algos
 - 📫 How to find me: 
   - :pencil2: [Poetry](https://www.instagram.com/another_bad_code/) 
