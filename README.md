@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Math behind Machine Learning Algos
+- 🌱 Tinkering with AI/ML Algos
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@anotherBadCode)
   - :office: [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-50254721/)
