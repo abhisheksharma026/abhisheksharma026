@@ -5,5 +5,5 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-50254721/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma026)](https://github.com/abhisheksharma026/github-readme-stats)
+[![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma026&layout=compact&theme=dark)](https://github.com/abhisheksharma026/github-readme-stats)
 
