@@ -25,4 +25,4 @@ LLM agents (Google ADK, LangGraph) · RAG / pgvector · Python · FastAPI · Typ
 ---
 
 [![Stats](https://gh-readme-stats.vercel.app/api?username=abhisheksharma026&show_icons=true&hide_border=true&theme=dark)](https://github.com/abhisheksharma026)
-[![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma026&layout=compact&hide_border=true&theme=dark)](https://github.com/abhisheksharma026)
+[![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=abhisheksharma026&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=html,css&size_weight=0.5&count_weight=0.5)](https://github.com/abhisheksharma026)
